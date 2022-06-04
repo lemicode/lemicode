@@ -18,7 +18,7 @@
 <div align="left">
 <div>
     <a href="https://github.com/MarteSpace">
-    <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=MarteSpace&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarteSpace&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarteSpace&layout=compact&langs_count=7&theme=gotham"/>
 </div> 
 </div>
