@@ -18,7 +18,6 @@
 <div align="left">
 <div>
     <a href="https://github.com/BambooThink">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=BambooThink&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api?username=BambooThink&show_icons=true&theme=radical">
 </div> 
 </div>
