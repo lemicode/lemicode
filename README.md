@@ -21,6 +21,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=BambooThink&show_icons=true&theme=radical">
 </div> 
 </div>
+  <br><br><br>
+ <a href="https://github.com/BambooThink/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BambooThink&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/BambooThink/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BambooThink&repo=convoychat" />
+</a>
 
 <!---
 BambooThink/BambooThink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
