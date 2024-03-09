@@ -16,11 +16,11 @@
 </div>
 <br><br><br>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BambooThink&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lemicode&show_icons=true&theme=radical">
 </div> 
   
 
 <!---
-BambooThink/BambooThink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lemicode/lemicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
