@@ -18,7 +18,7 @@
 <div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lemidoce&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=lemicode&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
