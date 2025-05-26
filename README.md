@@ -18,19 +18,19 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lemicode&show_icons=true&theme=radical"
+      srcset="https://github-readme-stats.vercel.app/api?username=nemoartdev&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lemicode&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=nemoartdev&show_icons=true"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preferences)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=lemicode&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nemoartdev&show_icons=true" />
   </picture>
 </p> 
   
 
 <!---
-lemicode/lemicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nemoartdev/nemoartdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
