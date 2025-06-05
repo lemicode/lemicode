@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Marco
 - 👀 I am interested in learning technology topics
-- 🌱 I am currently learning native mobile development
 - 💞️ I’m looking to collaborate on e-commerce and environmental projects
   
 ### Languages and Tools:
