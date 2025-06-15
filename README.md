@@ -7,7 +7,7 @@ I am a developer and informatics engineer.
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/marco-vanegas/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/></a>
+<a href="https://www.linkedin.com/in/marco-vanegas/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40"/></a>
   
 ### Languages and Tools:
 <div align="left">  
