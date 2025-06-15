@@ -1,10 +1,20 @@
-### 👋 Hi, I’m Marco
-- 👀 I am interested in learning technology topics
-- 💞️ I’m looking to collaborate on e-commerce and environmental projects
+### Hi there 👋
+
+I am a developer and informatics engineer.
+
+- 🤝I’m looking to collaborate on Open Source projects.
+  
+### Connect with me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/marco-vanegas/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
   
 ### Languages and Tools:
 <div align="left">  
+<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" />
 <img align="left" alt="MySQL" width="26px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -14,22 +24,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 <br><br><br>
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nemoartdev&show_icons=true&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=nemoartdev&show_icons=true"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preferences)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=nemoartdev&show_icons=true" />
-  </picture>
-</p> 
-  
-
-<!---
-nemoartdev/nemoartdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="left">
+<div>
+    <a href="https://github.com/nemoartdev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nemoartdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemoartdev&layout=compact&langs_count=7&theme=gotham"/>
+</div> 
+</div>
