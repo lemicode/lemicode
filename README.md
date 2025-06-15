@@ -2,7 +2,7 @@
 
 I am a developer and informatics engineer.
 
-- 🤝I’m looking to collaborate on Open Source projects.
+- 🤝I’m looking to collaborate on open source projects.
   
 ### Connect with me:
 
