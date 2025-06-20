@@ -1,4 +1,4 @@
-### Hi there! I'm Marco 👋
+### Hi there, I'm Marco 👋
 
 I am a developer and informatics engineer.
 
